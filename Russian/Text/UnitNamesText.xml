@@ -364,42 +364,42 @@
             <Requirements>
                 <CitizenRace>Race_Human</CitizenRace>
             </Requirements>
-            <Text>Bryan</Text>
-            <Text>Amare</Text>
-            <Text>Ivan</Text>
-            <Text>Pranav</Text>
-            <Text>Ahmad</Text>
-            <Text>Yusuf</Text>
-            <Text>Vala</Text>
-            <Text>Yasmin</Text>
-            <Text>Yasir</Text>
-            <Text>David</Text>
-            <Text>John</Text>
+            <Text>Брайан</Text>
+            <Text>Амарэ</Text>
+            <Text>Иван</Text>
+            <Text>Пранав</Text>
+            <Text>Ахмад</Text>
+            <Text>Юсеф</Text>
+            <Text>Вала</Text>
+            <Text>Ясмин</Text>
+            <Text>Ясир</Text>
+            <Text>Дэвид</Text>
+            <Text>Джон</Text>
             <Text>Джеймс</Text>
             <Text>Роберт</Text>
             <Text>Михаил</Text>
-            <Text>William</Text>
+            <Text>Уильям</Text>
             <Text>Брэд</Text>
-            <Text>Chris</Text>
-            <Text>Mark</Text>
+            <Text>Крис</Text>
+            <Text>Марк</Text>
             <Text>Павел</Text>
-            <Text>Steve</Text>
+            <Text>Стив</Text>
             <Text>Андрей</Text>
-            <Text>Kevin</Text>
+            <Text>Кевин</Text>
             <Text>Скотт</Text>
-            <Text>Greg</Text>
-            <Text>Jeff</Text>
-            <Text>Tim</Text>
-            <Text>Joe</Text>
-            <Text>Tom</Text>
-            <Text>Bill</Text>
+            <Text>Грег</Text>
+            <Text>Джеф</Text>
+            <Text>Тим</Text>
+            <Text>Джо</Text>
+            <Text>Том</Text>
+            <Text>Билл</Text>
             <Text>Джим</Text>
-            <Text>Mike</Text>
-            <Text>Greg</Text>
-            <Text>Joe</Text>
-            <Text>Tom</Text>
+            <Text>Майк</Text>
+            <Text>Грег</Text>
+            <Text>Джо</Text>
+            <Text>Том</Text>
             <Text>Алекс</Text>
-            <Text>Ben</Text>
+            <Text>Бэн</Text>
             <Text>Райан</Text>
             <PreferenceWeight>0</PreferenceWeight>
         </FlavorTextOption>
@@ -408,12 +408,12 @@
                 <GenderMale>0</GenderMale>
                 <CitizenRace>Race_Human</CitizenRace>
             </Requirements>
-            <Text>Ginny</Text>
-            <Text>Helene</Text>
-            <Text>Maria</Text>
-            <Text>Kamille</Text>
-            <Text>Masako</Text>
-            <Text>Rachel</Text>
+            <Text>Джинни</Text>
+            <Text>Хелен</Text>
+            <Text>Мария</Text>
+            <Text>Камилла</Text>
+            <Text>Масако</Text>
+            <Text>Рэйчел</Text>
             <PreferenceWeight>0</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
